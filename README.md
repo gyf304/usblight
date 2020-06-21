@@ -1,4 +1,4 @@
-* USBLight
+# USBLight
 
 This is the repo for making a Blink(1) compatible usb light with
 a Digiblink.
